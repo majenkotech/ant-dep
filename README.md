@@ -1,5 +1,5 @@
-Ant Dep
-=======
+Ant Depends
+===========
 
 This is a small task for Apache Ant to manage downloading of dependencies from various locations:
 
